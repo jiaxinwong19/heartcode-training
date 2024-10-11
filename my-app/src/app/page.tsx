@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div>
       <div className="flex flex-col justify-center">
-        <p className="font-bold text-5xl text-center m-5" style={{ fontFamily: 'Verdana' }}>don't do drugs!!!!</p>
+        <p className="font-bold text-5xl text-center m-5" style={{ fontFamily: 'Verdana' }}>dont do drugs!!!!</p>
         <div className="flex justify-center">
           <Image src={fightCat} alt="0.5" width={300}></Image>
           <Image src={fightCat2} alt="0.5" width={300}></Image>

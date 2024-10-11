@@ -5,7 +5,6 @@ import Image from "next/image";
 import Link from "next/link";  // Import Link from Next.js
 import cat1 from "@/app/assets/cat.jpeg";
 import cat2 from "@/app/assets/dcat.jpeg"; // Assuming you have another cat image
-import { color } from 'framer-motion';
 console.log('Clerk Publishable Key:', process.env.NEXT_PUBLIC_CLERK_FRONTEND_API);
 
 export default function Home() {
